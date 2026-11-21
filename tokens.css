@@ -1,0 +1,36 @@
+:root {
+  color-scheme: dark;
+  --canvas: #08080b;
+  --raised: #101015;
+  --raised-2: #16161d;
+  --hairline: rgb(255 255 255 / 0.08);
+  --hairline-strong: rgb(255 255 255 / 0.15);
+  --text: #f4f4f8;
+  --text-2: #a8a8b8;
+  --accent: #5e4ae3;
+  --accent-hover: #6c59ed;
+  --accent-text: #a99bff;
+  --link: #a99bff;
+  --ember: #ff7a1a;
+  --good: #28d17c;
+  --critical: #ff4d4d;
+  --glass-blur: 14px;
+  --glass-fill: rgb(16 16 21 / 0.66);
+  --glass-border: rgb(255 255 255 / 0.16);
+}
+
+html[data-theme="light"] {
+  color-scheme: light;
+  --canvas: #f7f7fb;
+  --raised: #ffffff;
+  --raised-2: #efeff6;
+  --hairline: rgb(16 16 21 / 0.1);
+  --hairline-strong: rgb(16 16 21 / 0.2);
+  --text: #101015;
+  --text-2: #4a4a5e;
+  --accent: #5e4ae3;
+  --accent-text: #4532c9;
+  --link: #4532c9;
+  --glass-fill: rgb(255 255 255 / 0.78);
+  --glass-border: rgb(16 16 21 / 0.14);
+}

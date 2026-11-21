@@ -1,0 +1,10 @@
+{
+  "name": "obsidian-glass-tokens",
+  "version": "1.0.0",
+  "description": "Dark-first Obsidian Glass CSS custom-property design token system with opt-in Light Mode and WCAG AA violet/ember accents.",
+  "main": "tokens.css",
+  "style": "tokens.css",
+  "license": "MIT",
+  "author": "Istiak Ahamed <hello@istiakahamed.com>",
+  "keywords": ["css", "design-tokens", "dark-mode", "obsidian-glass", "tailwind"]
+}
